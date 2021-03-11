@@ -21,7 +21,7 @@ Array.prototype.myMap = function(callback){
 };
 // Test
 // display All odd numbers
-// const newArr = array.myMap((item, i)=>{return (item%2) != 0? item:''});
+// const newArr = array.myMap((item, i)=>{return (item % 2) != 0? item:''});
 // console.log(newArr)
 
 // 3. Filter
