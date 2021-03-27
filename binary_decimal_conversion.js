@@ -9,6 +9,9 @@ function decimalToBinary(decimal){
     }
 
     return str;
+
+    // OR
+    // return decimal.toString(2)
 }
 
 
@@ -23,6 +26,8 @@ function binaryToDecimalMethod1(str){
         }
     }
     return sum;
+    // OR
+    // return parseInt(str, 2);
 }
 
 // Binary to decimal without reversing
