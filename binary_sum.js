@@ -1,5 +1,5 @@
 
-// Calculate the sum of two binary number.
+// Calculate the sum of two binary numbers.
 
 function binarySum(a, b){
 
